@@ -3,3 +3,4 @@ opencv_python_headless==4.8.0.76
 pandas==2.0.3
 tensorflow==2.10.0
 tqdm==4.66.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
